@@ -1,0 +1,25 @@
+{
+  "name": "TeamProfileGenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.1.0",
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsherPappas/TeamProfileGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsherPappas/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/AsherPappas/TeamProfileGenerator#readme"
+}
